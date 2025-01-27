@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaranGoyal-09](https://github.com/KaranGoyal-09)
 
-- 💬 Ask me about **Web Development, Data Structures and Algorithms, Python programming, and Embedded Systems, including Arduino.**
+- 💬 Ask me about **Web Development, Data Structures and Algorithms, Python programming, and Embedded Systems, including Arduino .**
 
 - 📫 How to reach me **Karangoyal1817@gmail.com**
 
